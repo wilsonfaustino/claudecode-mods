@@ -1,0 +1,6 @@
+{
+  "name": "claudecode-mods",
+  "description": "Mods for the Claude Code terminal",
+  "owner": { "name": "Wilson Faustino" },
+  "plugins": [{ "name": "copy-blocks", "source": "./copy-blocks" }]
+}

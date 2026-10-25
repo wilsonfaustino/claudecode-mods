@@ -1,0 +1,7 @@
+{
+  "name": "copy-blocks",
+  "version": "0.1.0",
+  "description": "A copy button for each fenced code block in an assistant reply",
+  "author": { "name": "Wilson Faustino" },
+  "types": "./types/index.d.ts"
+}
